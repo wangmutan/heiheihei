@@ -1,5 +1,4 @@
 
-
 # 嘿嘿嘿工具集
 
 #### 项目介绍
@@ -9,10 +8,10 @@
 软件架构说明：单体可执行文件
 
 #### 安装教程
-下载对应工具，无需安装
+[下载](https://github.com/wangmutan/heiheihei/releases)对应工具，无需安装
 
 #### 使用说明
-下载对应工具，双击运行
+[下载](https://github.com/wangmutan/heiheihei/releases)对应工具，双击运行
 
 #### 参与贡献
 
